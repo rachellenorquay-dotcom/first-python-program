@@ -1,5 +1,5 @@
 # Welcome message
-print("Hi, my name is Annie!")
+print("Hi, I am learning Python!")
 
 # Username prompt
 name = input("What's your name? ")
